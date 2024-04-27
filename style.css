@@ -1,72 +1,53 @@
-body {
-    font-family: sans-serif;
-    background-color: #85e7e7;
-}
 header {
-    background-color: #4cc49c;
-    color: rgb(255, 74, 74);
-    padding: 10px;
-    font-size: 20px;
+    background-color: #818274;
 }
-header a {
-    background-color: white;
-    border:2px solid black;
-    padding: 5px;
-    border-radius: 12px;
-    color: rgb(255, 74, 74);
-    text-decoration: none;
-}
-header img {
-    margin: 2px;
-}
-h1 {
-    text-align: center;
-    color: blueviolet;
-    font-size: 45px;
-}
-footer {
-    background-color: #4cc49c;
-}
-footer p {
-    margin: 5px;
-    padding: 5px;
-}
-nav a {
-    background-color: blueviolet;
-    text-decoration: none;
-    color: white;
-    border: 2px solid black;
-    padding: 5px;
-    margin: 3px;
-    border-radius: 12px;
-    font-size: 20px;
-}
-nav {
-    margin: 13px;
-}
-.orange {
-    background-color: rgb(180, 255, 104);
-    padding: 15px;
-    border-radius: 15px;
+header img{
+    width: 90x;
+    height: 90px;
 }
 p {
     font-size: 20px;
 }
-h2 {
-    font-size: 35px;
-    color: blueviolet;
-}
-.pic {
-    border:3px solid blueviolet;
-}
-main {
-    margin: 15px;
-}
-a {
-    background-color: white;
-    border:2px solid black;
-    padding: 5px;
-    border-radius: 15px;
+.sulki {
     text-decoration: none;
-    color: black;
+    font-size: 35px;
+    border: 2px solid black;
+    padding: 6px;
+    border-radius: 15px;
+    background-color: aliceblue;
+}
+.sulki_two{
+    text-decoration: none;
+    font-size: 35px;
+    border: 2px solid black;
+    padding: 6px;
+    border-radius: 15px;
+    background-color: aliceblue;
+}
+.sulki_dwa{
+    text-decoration: none;
+    font-size: 35px;
+    border: 2px solid black;
+    padding: 6px;
+    border-radius: 15px;
+    background-color: aliceblue;
+}
+h1 {
+    text-align: center;
+}
+table {
+    border: 3px solid black;
+}
+td {
+    border: 3px solid black; 
+    padding: 10px;
+    background-color: blanchedalmond;
+}
+footer {
+    background-color: #818274;
+}
+footer p{
+    padding: 10px;
+    background-color: white;
+    border: 15px solid #818274;
 }
